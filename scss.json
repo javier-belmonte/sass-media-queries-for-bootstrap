@@ -1,0 +1,59 @@
+{
+    // SASS Media queries breakpoints for Bootstrap v3.3.7
+    "mq-lg:min": {
+        "prefix": "mq-lg:min",
+        "body": [
+            "@media screen and (min-width: $screen-lg-min) {",
+            "}"
+        ],
+        "description": "min-width: $screen-lg-min"
+    },
+    "mq-md:max": {
+        "prefix": "mq-md:max",
+        "body": [
+            "@media screen and (max-width: $screen-md-max) {",
+            "}"
+        ],
+        "description": "max-width: $screen-md-max"
+    },
+    "mq-md:min": {
+        "prefix": "mq-md:min",
+        "body": [
+            "@media screen and (min-width: $screen-md-min) {",
+            "}"
+        ],
+        "description": "min-width: $screen-md-min"
+    },
+    "mq-sm:max": {
+        "prefix": "mq-sm:max",
+        "body": [
+            "@media screen and (max-width: $screen-sm-max) {",
+            "}"
+        ],
+        "description": "max-width: $screen-sm-max"
+    },
+    "mq-sm:min": {
+        "prefix": "mq-sm:min",
+        "body": [
+            "@media screen and (min-width: $screen-sm-min) {",
+            "}"
+        ],
+        "description": "min-width: $screen-sm-min"
+    },
+    "mq-xs:max": {
+        "prefix": "mq-xs:max",
+        "body": [
+            "@media screen and (max-width: $screen-xs-max) {",
+            "}"
+        ],
+        "description": "max-width: $screen-md-max"
+    },
+    "mq-xs:min": {
+        "prefix": "mq-xs:min",
+        "body": [
+            "@media screen and (min-width: $screen-xs-min) {",
+            "}"
+        ],
+        "description": "min-width: $screen-xs-min"
+    }
+}
