@@ -1,5 +1,4 @@
 {
-    // SASS Media queries breakpoints for Bootstrap v3.3.7
     "mq-lg:min": {
         "prefix": "mq-lg:min",
         "body": [
